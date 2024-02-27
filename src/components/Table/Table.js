@@ -13,7 +13,7 @@ function Table({ table_name }) {
   useEffect(() => {
     const data = fetch_my_table({ table_name });
     set_table_data(data);
-  }, []);
+  }, [table_name]);
 
   return (
     <div className="table_main">
