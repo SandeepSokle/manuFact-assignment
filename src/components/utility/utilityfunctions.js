@@ -63,7 +63,7 @@ const group_wind_data = () => {
       Gamma: (
         (parseFloat("" + entry.Ash) * parseFloat("" + entry.Hue)) /
         parseFloat("" + entry.Magnesium)
-      ).toFixed(3),
+      ),
     };
     groupedByAlcohol[alcoholValue].push(myObj);
   });
