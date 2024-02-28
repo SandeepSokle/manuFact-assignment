@@ -28,3 +28,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+e full screenshot of both the tables
+Flavanoids Statistical Measures
+![alt text](image.png)
+
+
+Gamma Statistical Measures
+![alt text](image-1.png)
